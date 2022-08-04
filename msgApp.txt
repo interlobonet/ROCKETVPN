@@ -1,17 +1,17 @@
 {
-"SendMessage":1,
+"SendMessage":2,
 "AppUpdate":"true",
 "AppURL":"https://play.google.com/store/apps/details?id=com.interlobo11.inc",
 "MyMessage":
-"Atencao! Urgência\n\n
-Metodo Vivo Parou Novamente.. Quer Saber Como se Conectar Novamente???
-Baixe o Aplicativo do telegram pra esta acompanhando o novo metodo disponivel!!!
+"Atencao!\n\n
+Algumas regiao esta funcionando na operadora vivo.
+Teste para verificar se a sua tmbém esta on.
 
-CLick em ok para esta vendo o video tutorial
+Obrigada.
 
 
 
 Versao App: v53.0 (Build 53)\n
 Ultima Versao Config: 2.3.0\n\n
-- Admin GamesDoMal 09h45 01/08/22"
+- Rocket VPN 20h35 04/08/22"
 }
