@@ -4,11 +4,10 @@
 "AppURL":"https://play.google.com/store/apps/details?id=com.interlobo11.inc",
 "MyMessage":
 "Atencao!\n\n
-Algumas regiao esta funcionando na operadora vivo.
-Teste para verificar se a sua tmbém esta on.
-
+Veja se seu aplicativo estaatualizado clicando em OK\n
+Algumas regiao esta funcionando na operadora vivo.\n
+Teste para verificar se a sua tmbém esta on.\n
 Obrigada.\n
-
 
 Versao App: v53.0 (Build 53)\n
 Ultima Versao Config: 2.3.0\n\n
