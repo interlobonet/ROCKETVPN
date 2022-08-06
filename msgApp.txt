@@ -1,12 +1,12 @@
 {
-"SendMessage":4,
+"SendMessage":5,
 "AppUpdate":"true",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
-"Atencao!\n\n
+"LEIA COM ATENÇAO!\n\n
 Veja se seu aplicativo esta atualizado clicando em OK\n
-Algumas regiao esta funcionando na operadora vivo.\n
-Teste para verificar se a sua tmbém esta on.\n
+Se ja estiver atualizado, clique em SAIR.\n\n
+Obs: ao clicar em OK voce sera redirecionado para a google play store!\n\n
 Obrigada.\n
 
 Versao App: v53.0 (Build 53)\n
