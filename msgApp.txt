@@ -1,10 +1,10 @@
 {
-"SendMessage":3,
+"SendMessage":4,
 "AppUpdate":"true",
-"AppURL":"https://play.google.com/store/apps/details?id=com.interlobo11.inc",
+"AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
 "Atencao!\n\n
-Veja se seu aplicativo estaatualizado clicando em OK\n
+Veja se seu aplicativo esta atualizado clicando em OK\n
 Algumas regiao esta funcionando na operadora vivo.\n
 Teste para verificar se a sua tmbém esta on.\n
 Obrigada.\n
