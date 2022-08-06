@@ -1,17 +1,15 @@
 {
-"SendMessage":6,
+"SendMessage":7,
 "AppUpdate":"true",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
 "LEIA COM ATENÇAO!\n\n
-Veja se seu aplicativo esta atualizado clicando em OK\n\n
+Avalie nosso aplicativo clicando em OK.\n\n
 
-Se ja estiver atualizado, clique em SAIR.\n\n
+Se ja estiver avaliado, clique em SAIR.\n\n
 
-Obs: ao clicar em OK voce sera redirecionado para a google play store!\n\n
-Obrigada.\n
+Obs: Ao clicar em OK voce sera redirecionado para a google play store!\n\n
+Obrigada.\n\n\n
 
-Versao App: v53.0 (Build 53)\n
-Ultima Versao Config: 2.3.0\n\n
-- Rocket VPN 20h35 04/08/22"
+- Rocket VPN 01h05 06/08/2022"
 }
