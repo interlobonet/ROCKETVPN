@@ -3,7 +3,7 @@
 "AppUpdate":"true",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
-"LEIA COM ATENÇAO!\n\n
+"AVALIAÇAO!\n\n
 Avalie nosso aplicativo clicando em OK.\n\n
 
 Se ja estiver avaliado, clique em SAIR.\n\n
