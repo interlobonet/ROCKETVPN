@@ -1,11 +1,13 @@
 {
-"SendMessage":5,
+"SendMessage":6,
 "AppUpdate":"true",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
 "LEIA COM ATENÇAO!\n\n
-Veja se seu aplicativo esta atualizado clicando em OK\n
+Veja se seu aplicativo esta atualizado clicando em OK\n\n
+
 Se ja estiver atualizado, clique em SAIR.\n\n
+
 Obs: ao clicar em OK voce sera redirecionado para a google play store!\n\n
 Obrigada.\n
 
