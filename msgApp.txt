@@ -1,15 +1,17 @@
 {
-"SendMessage":7,
+"SendMessage":8,
 "AppUpdate":"true",
 "AppURL":"https://play.google.com/store/apps/details?id=com.rocketvpn.inc",
 "MyMessage":
 "AVALIAÇAO!\n\n
 Avalie nosso aplicativo clicando em OK.\n\n
 
+Sua avaliaçao é importante.\n\n
+
 Se ja estiver avaliado, clique em SAIR.\n\n
 
 Obs: Ao clicar em OK voce sera redirecionado para a google play store!\n\n
 Obrigada.\n\n\n
 
-- Rocket VPN 01h05 06/08/2022"
+- Rocket VPN 01h05 30/08/2022"
 }
